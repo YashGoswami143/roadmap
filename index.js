@@ -6,8 +6,3 @@ function get_username() {
  return user_name;
 }
 
-function isvalid(age) {
-    if (age >18){
-        return 1;
-    }
-}
