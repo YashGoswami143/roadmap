@@ -6,3 +6,7 @@ function get_username() {
  return user_name;
 }
 
+function newFN(){
+
+    console.log("New Function ...!")
+}
