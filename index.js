@@ -6,7 +6,11 @@ function get_username() {
  return user_name;
 }
 
-function newFN(){
+function isvalid(age) {
+    if (age >18){
+        return 1;
+    }
+}function newFN(){
 
     console.log("New Function ...!")
 }
