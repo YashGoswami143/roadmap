@@ -17,4 +17,5 @@ function isvalid(age) {
 
 function newfeature(){
     console.log("this is a new feature.")
+    console.log("Some more data.")
 }
