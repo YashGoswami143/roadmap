@@ -29,4 +29,5 @@ function newfeatureC(){
     console.log("this is a new feature C.")
     console.log("Some more data.")
     console.log("this is a new feature C1.")
+    console.log("this is a new feature C2.")
 }
