@@ -25,3 +25,8 @@ function newfeatureB(){
     console.log("Some more data.")
     
 }
+function newfeatureC(){
+    console.log("this is a new feature C.")
+    console.log("Some more data.")
+    
+}
