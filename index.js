@@ -14,3 +14,7 @@ function isvalid(age) {
 
     console.log("New Function ...!")
 }
+
+function newfeature(){
+    console.log("this is a new feature.")
+}
